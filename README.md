@@ -1,1 +1,1 @@
-file:///D:/Html%20Assignment/Restaurant/index.html
+https://m-yasir-restaurant009.netlify.app/?authuser=0
