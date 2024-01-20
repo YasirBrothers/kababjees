@@ -1,0 +1,53 @@
+@font-face{
+    font-family:"My Font";
+    src: url(Font/BungeeSpice-Regular.ttf)
+    
+}
+
+.heading{
+    font-size: 72px;
+    font-family: "My Font"
+}
+
+body{
+background-color:black;
+}
+
+@font-face{
+    font-family:"about";
+    src: url(Font/Lemon-Regular.ttf)
+}
+h1{
+    font-family:"about" ;
+    color:white;
+}
+
+@font-face{
+    font-family:"about us";
+    src: url(Font/Salsa-Regular.ttf)
+}
+
+p{
+    text-transform:uppercase;
+    font-style:normal;
+    font-size: 18px;
+    font-family:"about us";
+    text-transform:lowercase;
+    color:darkred;
+}
+ li{color:aliceblue;
+    font-size:28px ;
+
+ }
+
+ h2{
+    color:white;
+ }
+ 
+ .main {
+   background-color: grey ;
+   background-size: 800px 600px;
+   
+    
+    
+ }
